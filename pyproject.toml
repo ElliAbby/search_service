@@ -1,5 +1,5 @@
 [tool.ruff]
-line-length = 99  # Сразу увеличим до 99, чтобы убрать ошибки E501!
+line-length = 99
 exclude = [".git", ".venv", "venv", "__pycache__"]
 
 [tool.ruff.lint]
